@@ -7,12 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phNapa&layout=compact&hide_border=true&title_color=FF8874&text_color=FF8874&bg_color=0d1117" />
 </div>
 
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=phNapa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 ### Main skills:
 ![Ruby](https://img.shields.io/badge/-Ruby-0D1117?style=for-the-badge&logo=ruby&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Rspec](https://img.shields.io/badge/-Rspec-0D1117?style=for-the-badge&logo=rspec&labelColor=0D1117&textColor=0D1117)&nbsp;
